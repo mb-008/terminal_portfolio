@@ -2,7 +2,7 @@
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
-Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `yarn install && yarn dev` and start editing `config.json` to build your website!
+Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `npm install && npm run dev` and start editing `config.json` to build your website!
 
 LiveTerm can be used to build a variety of websites:
 
@@ -27,7 +27,7 @@ Feel free to play with the web demo above!
 
 ## 🚀 Ship your LiveTerm site in less than 5 minutes
 
-LiveTerm requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
+LiveTerm requires the `npm` package manager. You can install `npm`  
 
 Simply run the following commmand in your terminal:
 
@@ -38,7 +38,7 @@ sh -c "$(curl -fsSL https://raw.github.com/Cveinnt/LiveTerm/main/install/install
 This will install LiveTerm to the current directory. You can start building your website with:
 
 ```bash
-cd LiveTerm && yarn dev
+cd LiveTerm && npm run dev
 ```
 
 Start editing `config.json` and try saving and see the updated changes!
@@ -52,7 +52,7 @@ git clone https://github.com/Cveinnt/LiveTerm.git && cd LiveTerm
 Then install dependencies and start developing there:
 
 ```bash
-yarn install && yarn dev
+npm install && npm run dev
 ```
 
 ### Docker Usage
