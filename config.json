@@ -1,39 +1,38 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/mb-008/mb-008/main/README.md",
+  "title": "mb_term_portfolio",
+  "name": "Mukul Bhardwaj",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/mb-008",
+    "linkedin": "https://www.linkedin.com/in/mukulbhardwaj123/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "mukulbhardwaj947@gmail.com",
+  "ps1_hostname": "systemd",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/mb-008/term_portfolio",
+  "resume_url": "https://drive.google.com/file/d/1ibRz4k0HfROxxDzwwUd-YYqk_5h53iS7/view?usp=drivesdk",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/Mukul915"
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
-    },
-    "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
+      "background": "#E5E9F0",
+      "foreground": "#2E3440",
       "yellow": "#5E81AC",
       "green": "#A3BE8C",
       "gray": "#88C0D0",
       "blue": "#EBCB8B",
       "red": "#BF616A"
-    }
+    },
+  "dark": {
+  "background": "#000000",
+  "foreground": "#00FF00",
+  "yellow": "#CCCC00",
+  "green": "#00FF00",
+  "gray": "#555555",
+  "blue": "#00BFFF",
+  "red": "#FF5555"
+}
+
   }
 }
